@@ -4,6 +4,6 @@ getting started with GutHub
 
 Hello Humans:
 
-Vijay here!, getting started. GitHub account!
+Vijay here!, getting started with the GitHub account!
 
 
